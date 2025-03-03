@@ -7,7 +7,7 @@ This repository compares Serverless Framework and Terraform for Infrastructure a
 **● What type of infrastructure and application deployments are each tool best suited for?**
 
 * **Serverless Framework:**
-    * Primarily designed for serverless architectures, focusing on deploying functions as a service (FaaS) like AWS Lambda, Azure Functions, and Google Cloud Functions.
+    * Primarily designed for serverless architectures, focusing on deploying functions as a service (FaaS) like AWS Lambda.
     * Best suited for event-driven applications, APIs, and microservices where you want to abstract away server management.
     * Handles the deployment of the functions themselves, as well as the related cloud resources needed to support them (API Gateways, queues, etc.).
 * **Terraform:**
